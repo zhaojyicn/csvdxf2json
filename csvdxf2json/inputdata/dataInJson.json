@@ -1,0 +1,5 @@
+{"features":[
+{"name": "Zhansan","dept": "depart1","id": "1","target": 100,"performance": 85},
+{"name": "Lisi","dept": "depart2","id": "2","target": 100,"performance": 70},
+{"name": "Wangwu","dept": "depart3","id": "3","target": 100,"performance": 80}
+]}
